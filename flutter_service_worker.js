@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "4d6ca6e342cf366da8709bb7251cca72",
+  "assets/AssetManifest.json": "5e387f72759d37dca7f8b4edb1dddcf5",
 "assets/assets/fonts/product_sans_bold.ttf": "dba0c688b8d5ee09a1e214aebd5d25e4",
 "assets/assets/fonts/product_sans_italic.ttf": "e88ec18827526928e71407a24937825a",
 "assets/assets/fonts/product_sans_regular.ttf": "eae9c18cee82a8a1a52e654911f8fe83",
@@ -14,7 +14,7 @@ const RESOURCES = {
 "assets/assets/images/deposit.png": "60a7b102ed462993f8404e860c686fb3",
 "assets/assets/images/device_frame.png": "58e971455388b5c476887bf687a71d8a",
 "assets/assets/images/facebook.png": "aebeb7422cfb67a1f34655a1e9806c11",
-"assets/assets/images/favicon.png": "67444e8782e707f23efa328707c110de",
+"assets/assets/images/favicon.png": "457f85857fff6d6d35e5a116f1d4a189",
 "assets/assets/images/flutter_logo_mono.png": "6261e07a1b1eb9cdd466b4879a41e361",
 "assets/assets/images/flutter_logo_text.png": "d21f1eecaeaab081ba7efec1721c0712",
 "assets/assets/images/google_logo.png": "22979cce8fc21c09b7f26e131045a400",
@@ -28,6 +28,8 @@ const RESOURCES = {
 "assets/assets/images/icon_youtube_64x.png": "155d50c9f10c97fae27575ae7ee7b026",
 "assets/assets/images/linkedin.png": "0d882387b032fc34cd78b3f286cd7712",
 "assets/assets/images/medium.png": "ebcdad25e838205747790d96d33ec024",
+"assets/assets/images/mobile.png": "d4ce5a2164a57b0928b160399b02adbd",
+"assets/assets/images/nadilson.jpg": "010ac27b2e4b26fc319ae9aa41822a85",
 "assets/assets/images/news_flutter_1.12.png": "1afef8f0d8e3ba20b49bc5625168b629",
 "assets/assets/images/news_flutter_codepen.png": "bc607f3054d4ab94ec5866422eb7c9c5",
 "assets/assets/images/news_flutter_ios_application_bundle.png": "c7d0eb7b38b5d44dabe759246f4fc376",
@@ -61,12 +63,12 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/NOTICES": "6d3e900a1cd617996cb6569917a1c52b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
-"favicon.png": "67444e8782e707f23efa328707c110de",
+"favicon.png": "457f85857fff6d6d35e5a116f1d4a189",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "c12d594b2b32eeb22215c6657607b795",
-"/": "c12d594b2b32eeb22215c6657607b795",
-"main.dart.js": "09c36d44a75bf45c11a76c7eddf803ff",
+"index.html": "e5e3edc1fc9bf6c40877929985827ca3",
+"/": "e5e3edc1fc9bf6c40877929985827ca3",
+"main.dart.js": "1d7965cf0e43a4251f6da8b5c6a68e44",
 "manifest.json": "2e0ba110c7f3de59c85e90bafab84afb",
 "version.json": "20ef019eb3c923d728e8b2ce447d9723"
 };
